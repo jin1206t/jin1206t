@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jin1206t&label=Profile%20views&color=0e75b6&style=flat" alt="jin1206t" /> </p>
 
-
+- ⚡ Fun fact **I enjoy reading, skiing, coding, and sleeping.**
+  
 - 🌱 I’m currently learning **How to S Turn smoothly**
 
 - 👯 I’m looking to collaborate on **Ski Holidays 2024/25**
@@ -17,8 +18,6 @@
 - 📫 How to reach me **jinh12@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jin1206t/](https://www.linkedin.com/in/jin1206t/)
-
-- ⚡ Fun fact **I enjoy reading, skiing, coding, and sleeping.**
 
 - 👨‍💻 Discalimer **My page may sometimes mess up, like life.  I'm learning how to fix it. Please be patient for updates**
 
