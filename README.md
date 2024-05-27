@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jin1206t" alt="jin1206t" /></a> </p>
 
-- 🔭 I’m currently working on **Personal project**
+- ⚡ Fun fact **I enjoy reading, skiing, coding, and sleeping.**
 
 - 🌱 I’m currently learning **How to S Turn smoothly**
 
 - 👯 I’m looking to collaborate on **Ski Holidays 2024/25**
 
 - 🤝 I’m looking for help with **How to brush up my Web page**
-
-- 👨‍💻 All of my projects are available at [somewhere](somewhere)
 
 - 📝 I regularly write articles on [somewhere](somewhere)
 
@@ -23,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jin1206t/](https://www.linkedin.com/in/jin1206t/)
 
-- ⚡ Fun fact **I enjoy reading, skiing, coding, and sleeping.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
