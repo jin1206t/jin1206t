@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jin1206t&label=Profile%20views&color=0e75b6&style=flat" alt="jin1206t" /> </p>
 
-- 👨‍💻 Discalimer **My page may sometimes mess up, like life.  I'm learning how to fix it. Please be patient for updates. **
+- 👨‍💻 Discalimer **My page may sometimes mess up, like life.  I'm learning how to fix it. Please be patient for updates**
 
 - 🌱 I’m currently learning **How to S Turn smoothly**
 
