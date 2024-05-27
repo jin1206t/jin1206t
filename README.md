@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jin1206t/](https://www.linkedin.com/in/jin1206t/)
 
-- 👨‍💻 Discalimer **My page may sometimes mess up, like life.  I'm learning how to fix it. Please be patient for updates**
+- 👨‍💻 Discalimer **My page might sometimes mess up, just like life.** I'm learning how to fix it, so please be patient with updates
 
 
 <h3 align="left">Connect with me:</h3>
