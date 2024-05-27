@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jin1206t&label=Profile%20views&color=0e75b6&style=flat" alt="jin1206t" /> </p>
 
-- ⚡ Fun fact **I enjoy reading, skiing, coding, and sleeping.**
+- ⚡ Fun fact: **I enjoy reading, skiing, coding, and sleeping.**
 
 - 🌱 I’m currently learning **How to S Turn smoothly**
 
