@@ -7,9 +7,7 @@
   
 - 🌱 I ’m ~~currently learning~~ able to **S Turn smoothly** and looking to collaborate on the 2024/25 season
 
-- 🤝 I’m looking for help with **How to brush up my Web page**
-
-- 📝 I regularly write articles on [somewhere](somewhere)
+- 📝 I irregularly write articles on [somewhere](https://jin1206t.github.io/).  I’m looking for help with **How to brush up my Web page**
 
 - 💬 Ask me about **How to raise babies and projects**
 
