@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I enjoy reading, skiing, coding, and sleeping**
   
-- 🌱 I -’m currently learning- have learned **how to S Turn smoothly** and looking to collaborate on the 2024/25 season
+- 🌱 I ~~’m currently learning~~ have learned **how to S Turn smoothly** and am looking to collaborate on the 2024/25 season
 
 - 🤝 I’m looking for help with **How to brush up my Web page**
 
