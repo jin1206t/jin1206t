@@ -7,15 +7,11 @@
   
 - 🌱 I ’m ~~currently learning~~ now able to **S Turn smoothly** and looking to collaborate on the 2024/25 season
 
-- 📝 I irregularly write articles on [somewhere](https://jin1206t.github.io/).  I’m looking for help with **How to brush up my Web page**
-
 - 💬 Ask me about **How to raise babies and projects**
 
-- 📫 How to reach me **jinh12@gmail.com**
+- 📫 How to reach me [here](https://jin1206t.github.io/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jin1206t/](https://www.linkedin.com/in/jin1206t/)
-
-- 👨‍💻 Discalimer **My page might sometimes mess up, just like life.** I'm learning how to fix it, so please be patient with updates
+- 📝 I’m looking for help with **How to brush up my Web page**
 
 
 <h3 align="left">Connect with me:</h3>
