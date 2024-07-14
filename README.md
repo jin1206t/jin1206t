@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jin1206t&label=Profile%20views&color=0e75b6&style=flat" alt="jin1206t" /> </p>
 
-- ⚡ Fun fact **I enjoy reading, skiing, coding, and sleeping**
+- ⚡ Fun fact **I enjoy reading, coding, snowboarding, and sleeping**
   
-- 🌱 I ’m ~~currently learning~~ now able to **S Turn smoothly** and looking to collaborate on the 2024/25 season
+- 🌱 I ’m ~~currently learning~~ able to **snowboard S-turns smoothly on middle-high level slopes**, and I'm looking to collaborate for the 2024/25 season
 
-- 💬 Ask me about **How to raise babies and projects**
+- 💬 Ask me about **How to raise babies, projects, or products**
 
-- 📫 How to reach me [here](https://jin1206t.github.io/)
+- 📝 I irregularly write thoughts at [somewhere](https://jin1206t.github.io/)
 
-- 📝 I’m looking for help with **How to brush up my Web page**
+- 🤝 I’m looking for help with **How to brush up my Web page**
+
+- 👨‍💻 Discalimer: **My repos may sometimes mess up, like life.  I'm learning how to fix them, so please be patient for updates**
 
 
 <h3 align="left">Connect with me:</h3>
