@@ -15,8 +15,7 @@
 
 - 🤝 I’m looking for help with **How to brush up my Web page**
 
-- 👨‍💻 Discalimer: **My repos may sometimes mess up, like life**. /n
-I'm learning how to fix them, so please be patient for updates.
+- 👨‍💻 Discalimer: **My repos may sometimes mess up, like life**. I'm learning how to fix them, so please be patient for updates.
 
 
 <h3 align="left">Connect with me:</h3>
