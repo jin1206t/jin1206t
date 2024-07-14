@@ -15,14 +15,14 @@
 
 - 🤝 I’m looking for help with **How to brush up my Web page**
 
-- 👨‍💻 Discalimer: **My repos may sometimes mess up, like life**. 
+- 👨‍💻 Discalimer: **My repos may sometimes mess up, like life**. /n
 I'm learning how to fix them, so please be patient for updates.
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://jin1206t.github.io/" target="blank">
-  <img src="link-to-your-icon-image" alt="Click Here" width="32" height="32">
+<a href="https://jin1206t.github.io/" target="_blank">
+   <img src="assets/img/Click.jpg" alt="Click Here" width="32" height="32">
 </a>
 </p>
 
