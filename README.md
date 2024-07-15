@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **How to raise babies, projects, or products**
 
-- 📝 I irregularly write thoughts at **[Somewhere](https://jin1206t.github.io/)**
+- 📝 I irregularly write thoughts at **[Somewhere](https://western-aletopelta-c3c.notion.site/Published-Jin-s-Free-Note-7dcafdd576e146c2bbff9d948e4217f4?pvs=4)**
 
 - 🤝 I’m looking for help with **How to brush up my Web page**
 
@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://jin1206t.github.io/" target="_blank">
-   <img src="assets/img/Two_cat_run.gif" alt="Click Here" width="150" height="88">
+   <img src="assets/img/Two_cat_run.gif" alt="Click Here" width="148" height="88">
 </a>
 </p>
 
