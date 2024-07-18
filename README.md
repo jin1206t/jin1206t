@@ -11,9 +11,7 @@
 
 - 💬 Ask me about **How to raise babies, projects, or products**
 
-- 📝 I irregularly write thoughts at **[Somewhere](https://western-aletopelta-c3c.notion.site/Published-Jin-s-Free-Note-7dcafdd576e146c2bbff9d948e4217f4?pvs=4)**
-
-- 🤝 I’m looking for help with **How to brush up my Web page**
+- 🤝 I’m looking for help with **How to brush up [my web page](https://jin1206t.github.io/)**
 
 - 👨‍💻 Discalimer: **My repos may sometimes mess up, like life**. I'm learning how to fix them, so please be patient for updates
 
