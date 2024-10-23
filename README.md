@@ -11,17 +11,7 @@
 
 - 💬 Ask me about **How to raise babies, projects, or products**
 
-- 🤝 I’m looking for help with **How to brush up [my web page](https://jin1206t.github.io/)**
-
 - 👨‍💻 Discalimer: **My repos may sometimes mess up, like life**. I'm learning how to fix them, so please be patient for updates
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://jin1206t.github.io/" target="_blank">
-   <img src="assets/img/Two_cat_run.gif" alt="Click Here" width="148" height="88">
-</a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
