@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **How to raise babies, projects, or products**
 
-- 👨‍💻 Discalimer: **My repos may sometimes mess up, like life**. I'll fix them but please be patient for updates
+- 👨‍💻 Discalimer: My repos may sometimes mess up, like life. I'll fix them but **please be patient for updates**
 
 
 <h3 align="left">Languages and Tools:</h3>
