@@ -7,11 +7,11 @@
   
 - 🌱 I can smoothly snowboard **S-turns on middle-high level slopes**
 
-- 😄 WInter is over, and I'm now looking for **gaming buddies to play with**
+- 😄 Winter is over - I'm now looking for **Gaming buddies to play with**
 
 - 💬 Ask me about **How to raise babies, projects, or products**
 
-- 👨‍💻 Discalimer: My repos may sometimes mess up, like life. I'll fix them but **be patient for updates**
+- 👨‍💻 Discalimer: My repos may sometimes mess up, like life. I'll fix them but **Be patient for updates**
 
 
 <h3 align="left">Languages and Tools:</h3>
