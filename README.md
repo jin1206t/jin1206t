@@ -6,12 +6,10 @@
 - ⚡ Fun fact: **I enjoy reading, coding, snowboarding, and sleeping**
   
 - 💬 I can smoothly snowboard **S-turns on middle-high level slopes**
-
-- 😄 Winter is over - I'm now looking for **Gaming buddies to play with**
-
 - 🌱 Ask me about **How to raise babies, projects, or products**
 
-- 👨‍💻 Discalimer: My repos may sometimes mess up, like life. I'll fix them but **Be patient for updates**
+- 😄 Winter is over - I'm now looking for **Gaming buddies to play with**
+- 👨‍💻 Disclaimer: My repos may sometimes mess up, like life. I'll fix them, so **Be patient for updates**
 
 
 <h3 align="left">Languages and Tools:</h3>
