@@ -5,13 +5,13 @@
 
 - ⚡ Fun fact: **I enjoy reading, coding, snowboarding, and sleeping**
   
-- 🌱 I ’m able to snowboard S-turns smoothly on **Middle-high level slopes**
+- 🌱 I can smoothly snowboard **S-turns on middle-high level slopes**
 
-- 😄 I'm looking to **Collaborate for the 2024/25 season**
+- 😄 WInter is over, and I'm now looking for **gaming buddies to play with**
 
 - 💬 Ask me about **How to raise babies, projects, or products**
 
-- 👨‍💻 Discalimer: My repos may sometimes mess up, like life. I'll fix them but **please be patient for updates**
+- 👨‍💻 Discalimer: My repos may sometimes mess up, like life. I'll fix them but **be patient for updates**
 
 
 <h3 align="left">Languages and Tools:</h3>
