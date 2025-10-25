@@ -5,9 +5,9 @@
 
 - ⚡ Fun fact: **I enjoy reading, coding, snowboarding, and sleeping**
   
-- 💬 I do **S-turns on middle-high level slopes**
-- 🌱 Ask me about **How to raise babies, projects, or products**
-- 😄 Always seeking **Snow buddies OR Gaming buddies to play with**
+- 🏂 I carve **S-turns on snowy slopes**  
+- 🌄 I dive into **oceans and skies**  
+- 🌱 Ask me about **raising babies, projects, or products**
 
 - 👨‍💻 Disclaimer: My repos may sometimes mess up, like life. I'll fix them, so **Be patient for updates**
 
