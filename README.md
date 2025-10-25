@@ -6,8 +6,8 @@
 - ⚡ Fun fact: **I enjoy reading, coding, and sleeping**
   
 - 🏂 I carve **S-turns on snowy slopes**  
-- 🌄 I dive into **Oceans and Skies**  
-- 🌱 Ask me about **raising Babies, Projects, or Products**
+- 🌄 I dive into **oceans and skies**  
+- 🌱 Ask me about **raising babies, projects, or products**
 
 - 👨‍💻 Disclaimer: My repos may sometimes mess up, like life. I'll fix them, so **Be patient for updates**
 
