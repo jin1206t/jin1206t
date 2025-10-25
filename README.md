@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jin1206t&label=Profile%20views&color=0e75b6&style=flat" alt="jin1206t" /> </p>
 
-- ⚡ Fun fact: **I enjoy reading, coding, and sleeping**
+- 🎮 Fun fact: **I enjoy reading, coding, and sleeping**
   
 - 🏂 I carve **S-turns on snowy slopes**  
 - 🌄 I dive into **oceans and skies**  
 - 🌱 Ask me about **raising babies, projects, or products**
 
-- 👨‍💻 Disclaimer: My repos may sometimes mess up, like life. I'll fix them, so **Be patient for updates**
+- 🔧 Disclaimer: My repos may sometimes mess up, like life.
+     I'll fix them, so **Be patient for updates**
 
 
 <h3 align="left">Languages and Tools:</h3>
